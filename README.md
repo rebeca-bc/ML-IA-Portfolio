@@ -1,4 +1,4 @@
-# Machine Learning & Data Science Portfolio
+# Machine Learning, Data Science and AI Portfolio
 
 This portfolio represents a comprehensive collection of predictive modeling, statistical analysis, and exploratory data science projects. Each repository focuses on extracting actionable insights from complex datasets.
 
