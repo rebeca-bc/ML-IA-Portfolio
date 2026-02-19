@@ -12,7 +12,6 @@ This portfolio represents a comprehensive collection of predictive modeling, sta
 * **Index & Deliverables**:
     * [Interactive HTML Report](https://rebeca-bc.github.io/deforestation-data-insights/)
     * [Source Repository](https://github.com/rebeca-bc/deforestation-data-insights)
-    * [Dataset & Jupyter Notebook](https://github.com/rebeca-bc/deforestation-data-insights/tree/main)
 
 ### ⚖️ [Global Happiness Index Analysis](https://rebeca-bc.github.io/happiness-index-linear-regressions/)
 * **Overview**: Investigation of socioeconomic factors (GDP, social support, life expectancy) and their impact on national happiness scores.
