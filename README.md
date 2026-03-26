@@ -34,8 +34,6 @@ This portfolio represents a comprehensive collection of predictive modeling, sta
     * [Interactive HTML Report](https://rebeca-bc.github.io/DeforestationLogisticClassifier/)
     * [Source Repository](https://github.com/rebeca-bc/DeforestationLogisticClassifier)
 
-Source Repository
-
 ### 🌳 [Deforestation Data Insights](https://rebeca-bc.github.io/deforestation-data-insights/)
 * **Overview**: A predictive analysis of global deforestation drivers and forest cover loss trends.
 * **Technical Highlights**: Implemented linear regression models and designed a data-driven approach to environmental monitoring.
