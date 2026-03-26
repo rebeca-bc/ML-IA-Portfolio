@@ -6,6 +6,36 @@ This portfolio represents a comprehensive collection of predictive modeling, sta
 
 ## 🚀 Featured Projects
 
+### 🏆 Deforestation Risk Classifier (Final Synthesis)
+* **Overview**: The culmination of the classification series, synthesizing insights across linear models, tree-based ensembles, and deep learning to establish the most robust, deployment-ready ecological early-warning system.
+* **Technical Highlights**: Comprehensive algorithm benchmarking, rigorous independent test-set validation, and translating mathematical metrics (Recall vs. Precision) into actionable environmental policy recommendations.
+* **Index & Deliverables**:
+    * [Interactive HTML Report](https://rebeca-bc.github.io/Deforestation-Risk-Classifier/)
+    * [Source Repository](https://github.com/rebeca-bc/Deforestation-Risk-Classifier)
+
+### 🤖 Deforestation Multi-Model Classification
+* **Overview**: Stress-testing diverse machine learning architectures (Random Forest, XGBoost, SVM, and Neural Networks) to uncover the true underlying geometry of global deforestation threats.
+* **Technical Highlights**: Model-specific preprocessing pipelines, stratified cross-validation, Neural Network early stopping (val_loss), and minority-sensitive F1-score evaluation.
+* **Index & Deliverables**:
+    * [Interactive HTML Report](https://rebeca-bc.github.io/DeforestationClassifier-SVMsEnsembleANNs/)
+    * [Source Repository](https://github.com/rebeca-bc/DeforestationClassifier-SVMsEnsembleANNs)
+
+### 🌲 LDA & Decision Trees: Deforestation Risk
+* **Overview**: A comparative study of Linear Discriminant Analysis (LDA) and Decision Trees to identify deforestation drivers and test if contrasting mathematical algorithms converge on the same ecological signals.
+* **Technical Highlights**: LDA assumption auditing (multicollinearity, KDE plots), Discriminant Scaling Analysis, leakage-free scaling, and Gini Feature Importance extraction.
+* **Index & Deliverables**:
+    * [Interactive HTML Report](https://rebeca-bc.github.io/DeforestationClassifierLDA-Trees/)
+    * [Source Repository](https://github.com/rebeca-bc/DeforestationClassifierLDA-Trees)
+
+### 🎯 Deforestation Logistic: Critical Risk Classification
+* **Overview**: A binary classification approach using Logistic Regression to predict critical deforestation risk based on socioeconomic indicators and ecologically validated thresholds.
+* **Technical Highlights**: Target variable engineering (literature-validated cutoffs), class imbalance handling (class_weight='balanced'), leakage-free pipelines, and operational decision threshold analysis to maximize crisis detection.
+* **Index & Deliverables**:
+    * [Interactive HTML Report](https://rebeca-bc.github.io/DeforestationLogisticClassifier/)
+    * [Source Repository](https://github.com/rebeca-bc/DeforestationLogisticClassifier)
+
+Source Repository
+
 ### 🌳 [Deforestation Data Insights](https://rebeca-bc.github.io/deforestation-data-insights/)
 * **Overview**: A predictive analysis of global deforestation drivers and forest cover loss trends.
 * **Technical Highlights**: Implemented linear regression models and designed a data-driven approach to environmental monitoring.
