@@ -4,9 +4,42 @@ This portfolio represents a comprehensive collection of predictive modeling, sta
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Unsupervised Learning, Reinforcement and Deep Learning Projects
 
-### 🏆 Deforestation Risk Classifier (Final Synthesis)
+### 🍎 FreshCheck AI: Hierarchical Computer Vision for Food Waste Reduction
+* **Overview**: A two-stage intelligent system designed to combat food waste. FreshCheck first identifies the type of produce and then applies a specialized maturity-detection model to predict freshness levels, providing actionable storage advice and environmental impact metrics.
+* **Technical Highlights**: Hierarchical Classification using Transfer Learning (MobileNetV2), Human-in-the-Loop integration for texture validation, and a custom environmental converter that translates food waste into CO2e and water footprint data.
+* **Index & Deliverables**:
+    * [Live Demo: Streamlit App](https://freshcheck-ripeness.streamlit.app/)
+    * [Source Repository](https://github.com/rebeca-bc/FreshCheck)
+
+### 🧬 [Classification Endometrial Cancer Molecular Subtypes](https://rebeca-bc.github.io/UnsupervisedGenes/)
+* **Overview**: Transitioning from traditional histological grading to precision medicine by identifying molecular signatures in 566 patients using RNA-seq data. This project discovers three robust clusters with distinct survival outcomes, linking transcriptional heterogeneity to clinical prognosis.
+* **Technical Highlights**: PCA-based dimensionality reduction (60,660 genes to 25 PCs), K-Means & Hierarchical Clustering, Kaplan-Meier survival modeling, and biomarker discovery using one-vs-rest t-tests with Benjamini-Hochberg FDR correction.
+* **Index & Deliverables**:
+    * [Interactive HTML Report](https://rebeca-bc.github.io/UnsupervisedGenes/)
+    * [Source Repository](https://github.com/rebeca-bc/UnsupervisedGenes)
+
+### 🚀 [Reinforcement Learning: Q-Learning Cliff Walking](https://rebeca-bc.github.io/RenforcementCliffWalking/)
+* **Overview**: A real-time demonstration of an agent mastering a discrete environment. The project tracks the evolution of an AI from "stochastic chaos" to an "optimal speedrun" (14 steps) across a cliffside grid, discovering the "cliff-edge" strategy naturally.
+* **Technical Highlights**: Q-Table implementation, epsilon-greedy exploration/exploitation scheduling, reward engineering, and automated GIF generation for temporal learning analysis.
+* **Index & Deliverables**:
+    * [Interactive HTML Report](https://rebeca-bc.github.io/RenforcementCliffWalking/)
+    * [Source Repository](https://github.com/rebeca-bc/RenforcementCliffWalking)
+
+### 🔍 [Unsupervised Tutorial and Demo: Clustering & Recommendation Systems]
+* **Overview**: A educational suite and web app designed to bridge the gap between machine learning theory and industry practice. Features a deep dive into K-Means/Hierarchical logic and a practical application of PCA for building high-speed recommendation engines.
+* **Technical Highlights**: Feature standardization auditing, Elbow/Silhouette optimization, linkage method comparisons (Ward, Single, Complete), and building "MovieMate"—a live engine utilizing Cosine Similarity on MovieLens data.
+* **Index & Deliverables**:
+    * [Clustering Types Tutorial](https://rebeca-bc.github.io/ClusteringTypesTutorial/)
+    * [PCA & Recommendation Project](https://rebeca-bc.github.io/RecommendationPCATutorial/)
+    * [Live App: MovieMate Engine](https://recommendationpcatutorial.onrender.com/)
+
+---
+
+## 🚀 Featured Supervised Learning Projects
+
+### 🏆 Deforestation Risk Classifier (Classification Synthesis)
 * **Overview**: The culmination of the classification series, synthesizing insights across linear models, tree-based ensembles, and deep learning to establish the most robust, deployment-ready ecological early-warning system.
 * **Technical Highlights**: Comprehensive algorithm benchmarking, rigorous independent test-set validation, and translating mathematical metrics (Recall vs. Precision) into actionable environmental policy recommendations.
 * **Index & Deliverables**:
