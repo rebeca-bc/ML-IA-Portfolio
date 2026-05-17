@@ -27,7 +27,7 @@ This portfolio represents a comprehensive collection of predictive modeling, sta
     * [Interactive HTML Report](https://rebeca-bc.github.io/RenforcementCliffWalking/)
     * [Source Repository](https://github.com/rebeca-bc/RenforcementCliffWalking)
 
-### 🔍 [Unsupervised Tutorial and Demo: Clustering & Recommendation Systems]
+### 🔍 [Unsupervised Tutorial and Demo: Clustering & Recommendation Systems](https://rebeca-bc.github.io/RecommendationPCATutorial/)
 * **Overview**: A educational suite and web app designed to bridge the gap between machine learning theory and industry practice. Features a deep dive into K-Means/Hierarchical logic and a practical application of PCA for building high-speed recommendation engines.
 * **Technical Highlights**: Feature standardization auditing, Elbow/Silhouette optimization, linkage method comparisons (Ward, Single, Complete), and building "MovieMate"—a live engine utilizing Cosine Similarity on MovieLens data.
 * **Index & Deliverables**:
